@@ -1,0 +1,2 @@
+# ruthless.ai
+ai assistant
